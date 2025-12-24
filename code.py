@@ -1,1 +1,1 @@
-print('Hello from Feature A')
+print('Hello from Both features A and B')
